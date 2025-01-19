@@ -162,13 +162,6 @@ header div a:hover {
     width: 100%;
 }
 
-.card div.description {
-    font-size: 12px;
-}
-
-.card h3 {
-    font-size: 14px;
-}
 ```
 
 14. Let's add the icons for the comments and favorites. First, target the `.social` class selector. We'll add a margin top of 1rem, and set the font size to 12px per the mockup.
